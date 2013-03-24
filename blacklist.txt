@@ -1,0 +1,12 @@
+Item Name
+Ammo Types
+Hybrid Charges
+Projectile Ammo
+Frequency Crystals
+Mining Crystals
+Heavy Missiles
+Light Missiles
+Rockets
+Torpedos
+Drones
+Combat
